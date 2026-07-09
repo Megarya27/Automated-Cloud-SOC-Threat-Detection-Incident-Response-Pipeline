@@ -6,7 +6,8 @@ I wanted to get hands-on with building and automating a cloud-based Security Ope
 Instead of treating servers like permanent fixtures, I treated them as disposable assets. I built, tested, and systematically tore down the entire environment. It was a great way to practice real-world threat mitigation while keeping a close eye on cloud spend (because cost optimisation is key!).
 
 ## Architecture Diagram
-*(Insert your topology diagram here showing the flow: Attacker -> Linux Honeypot -> Azure Monitor Agent -> Log Analytics Workspace -> Microsoft Sentinel -> Logic App -> Network Security Group)*
+<img width="2816" height="1536" alt="diagram" src="https://github.com/user-attachments/assets/c9672517-4363-41f4-b1b1-4a967458852f" />
+
 
 ## Technology Stack & Core Concepts
 * **Cloud Provider:** Microsoft Azure
