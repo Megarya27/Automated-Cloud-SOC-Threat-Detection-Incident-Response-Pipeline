@@ -7,7 +7,8 @@ Instead of treating servers like permanent fixtures, I treated them as disposabl
 
 ## Architecture Diagram
 
-![Uploading 3616042815537316202.jpg…]()
+<img width="1408" height="768" alt="3616042815537316202" src="https://github.com/user-attachments/assets/d8e62030-2c0a-48f7-acf7-9f5f161fd004" />
+
 
 
 ## Technology Stack & Core Concepts
